@@ -1,0 +1,12 @@
+Q : How do you know whether EARTHING is right in your house?
+
+Our team form a device which name is "SMART INDICATOR", which is also known as "Earth Leakage Circuit"..
+
+There Circuit are divided into 3 Parts,
+
+1. Supply Part       2. RED LED Blinking         3. GREED LED ON
+
+Here, Red Led Blinking means -- Ground or Earthing is not proper in your House. Next Green Led ON means -- Ground is Proper...
+
+
+
